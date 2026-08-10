@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "senpaigamerz",
+    "username": "MINE BOT5",
     "password": "88948230",
     "type": "offline"
   },
   "server": {
-    "ip": "Play-LordsMC.aternos.me",
-    "port": 57697,
+    "ip": "MINESMP-I5Dn.aternos.me",
+    "port": 40812,
     "version": "1.21.11",
     "try-creative": true
   },
